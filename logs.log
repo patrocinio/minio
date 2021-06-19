@@ -1,0 +1,5 @@
+Log file created at: 2021/06/19 17:56:50
+Running on machine: patro-idea
+Binary: Built with gc go1.16.4 for darwin/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0619 17:56:50.428822    9176 init.go:77] init command started
